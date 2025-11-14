@@ -1,4 +1,4 @@
-# AppLock NFC
+# TheLocker (AppLock NFC)
 
 A modern, minimal Android app that locks selected applications using NFC tags. Built with Jetpack Compose and Material Design 3.
 
